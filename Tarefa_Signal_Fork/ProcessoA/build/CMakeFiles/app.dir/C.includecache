@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/presto/Documents/Topicos/Tarefa_Signal_Fork/ProcessoA/processoA.c
+stdio.h
+-
+unistd.h
+-
+signal.h
+-
+stdlib.h
+-
+sys/types.h
+-
+

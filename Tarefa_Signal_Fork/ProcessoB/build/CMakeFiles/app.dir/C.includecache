@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/presto/Documents/Topicos/testdae/processoB.c
+sys/types.h
+-
+sys/stat.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+errno.h
+-
+unistd.h
+-
+syslog.h
+-
+string.h
+-
+signal.h
+-
+

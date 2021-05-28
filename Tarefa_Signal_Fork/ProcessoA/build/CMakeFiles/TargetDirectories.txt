@@ -1,0 +1,3 @@
+/home/presto/Documents/Topicos/Tarefa_Signal_Fork/ProcessoA/build/CMakeFiles/rebuild_cache.dir
+/home/presto/Documents/Topicos/Tarefa_Signal_Fork/ProcessoA/build/CMakeFiles/edit_cache.dir
+/home/presto/Documents/Topicos/Tarefa_Signal_Fork/ProcessoA/build/CMakeFiles/app.dir

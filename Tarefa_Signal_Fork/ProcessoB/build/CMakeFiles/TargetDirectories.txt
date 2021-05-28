@@ -1,0 +1,3 @@
+/home/presto/Documents/Topicos/testdae/build/CMakeFiles/rebuild_cache.dir
+/home/presto/Documents/Topicos/testdae/build/CMakeFiles/edit_cache.dir
+/home/presto/Documents/Topicos/testdae/build/CMakeFiles/app.dir
