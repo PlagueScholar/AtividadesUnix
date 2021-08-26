@@ -10,4 +10,6 @@ O programa utiliza as bibliotecas:
 <sys/stat.h>
 <libnotify/notify.h> 
 
-Esta ultima torna necessario compilar utilizando o comando: g++ mainfinal.c -o main  `pkg-config --cflags --libs libnotify`
+Esta ultima torna necessario compilar utilizando o comando: g++ mainfinal.c -o main  `pkg-config --cflags --libs libnotify` "limite de uso de cpu5" "limite de memoria disponivel" 
+
+Esses limites são os parametros para que as notificações venham a ser geradas.
